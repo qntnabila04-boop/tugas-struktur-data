@@ -45,7 +45,7 @@ public class TugasDFS {
     }
 
     public static void main(String[] args) {
-        DFS g = new DFS();
+        TugasDFS g = new TugasDFS();
         g.dfs("a0", "a9");
     }
 }
